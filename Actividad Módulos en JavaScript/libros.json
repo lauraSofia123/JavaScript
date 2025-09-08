@@ -1,0 +1,23 @@
+[
+  {
+    "titulo": "Cien Años de Soledad",
+    "autor": "Gabriel García Márquez",
+    "paginas": 417,
+    "editorial": "Sudamericana",
+    "idioma": "Español"
+  },
+  {
+    "titulo": "Don Quijote de la Mancha",
+    "autor": "Miguel de Cervantes",
+    "paginas": 863,
+    "editorial": "Francisco de Robles",
+    "idioma": "Español"
+  },
+  {
+    "titulo": "Clean Code",
+    "autor": "Robert C. Martin",
+    "paginas": 464,
+    "editorial": "Prentice Hall",
+    "idioma": "Inglés"
+  }
+]
